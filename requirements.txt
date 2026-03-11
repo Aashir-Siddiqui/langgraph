@@ -9,3 +9,4 @@ langchain-groq
 python-dotenv
 ipykernel
 pydantic
+groq
